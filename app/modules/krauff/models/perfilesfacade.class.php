@@ -1,0 +1,45 @@
+<?php
+
+class Modules_Krauff_Model_PerfilesFacade implements Moon2_Interfaces_MandatoryModel {
+
+    private $_perfilesDB;
+
+    public function __construct() {
+        $this->_perfilesDB = new Modules_Krauff_ModelDb_PerfilesDb();
+    }
+
+    public function add($obj) {
+        return $this->_perfilesDB->add($obj);
+    }
+
+    public function update($obj) {
+        return $this->_perfilesDB->update($obj);
+    }
+
+    public function delete($obj) {
+        return $this->_perfilesDB->delete($obj);
+    }
+
+    public function loadOne($obj) {
+        return $this->_perfilesDB->loadOne($obj);
+    }
+
+    public function add_searchField($key, $field, $type = "") {
+        return $this->_perfilesDB->add_searchField($key, $field, $type);
+    }
+
+    public function load_all(&$rsNumRows, $limit_numrows, $page, $Data = array()) {
+        return $this->_perfilesDB->load_all($rsNumRows, $limit_numrows, $page, $Data);
+    }
+
+    public function comboperfiles() {
+        return $this->_perfilesDB->comboperfiles();
+    }
+
+    public function comboPerfilesadm() {
+        return $this->_perfilesDB->comboPerfilesadm();
+    }
+
+}
+
+?>

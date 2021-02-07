@@ -1,0 +1,93 @@
+.bg-naranja {
+    background-color: #FA6342;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.bg-violeta {
+    background-color: #8775a7;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #60507C;
+    border-bottom: 3px solid #60507C;
+}
+
+.bg-azul {
+    background-color: #3598dc;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #1A6495;
+    border-bottom: 3px solid #1A6495;
+}
+
+.bg-verde {
+    background-color: #26c281;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #187C52;
+    border-bottom: 3px solid #187C52;
+}
+
+.bg-ocre {
+    background-color: #c49f47;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #7D6428;
+    border-bottom: 3px solid #7D6428;
+}
+
+.bg-rojoclaro {
+    background-color: #cb5a5e;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #82282B;
+    border-bottom: 3px solid #82282B;
+}
+
+.bg-negro {
+    background-color: #22313f;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #090D11;
+    border-bottom: 3px solid #090D11;
+}
+
+.bg-turquesa {
+    background-color: #26a69a;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #1A6F66;
+    border-bottom: 3px solid #1A6F66;
+}
+
+.bg-amarillo-oro {
+    background-color: #e87e04;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #A55803;
+    border-bottom: 3px solid #A55803;
+}
+
+.bg-verde-negro {
+    background-color: #1e3434;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #111E1E;
+    border-bottom: 3px solid #111E1E;
+}
+
+.bg-azul-madison {
+    background-color: #578ebe;
+    color: #ffffff;
+    border-radius: 5px;
+    border-right: 3px solid #325B81;
+    border-bottom: 3px solid #325B81;
+}
+
+
+
+
+
+
+
+

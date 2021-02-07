@@ -1,0 +1,98 @@
+/*------------------------------------
+  Block Hidden
+------------------------------------*/
+.g-hidden-xs-up {
+    display: none !important;
+}
+
+@media (max-width: 575px) {
+    .g-hidden-xs-down {
+        display: none !important;
+    }
+}
+
+@media (min-width: 576px) {
+    .g-hidden-sm-up {
+        display: none !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .g-hidden-sm-down {
+        display: none !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .g-hidden-md-up {
+        display: none !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .g-hidden-md-down {
+        display: none !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .g-hidden-lg-up {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1199px) {
+    .g-hidden-lg-down {
+        display: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .g-hidden-xl-up {
+        display: none !important;
+    }
+}
+
+.g-hidden-xl-down {
+    display: none !important;
+}
+
+@media (max-width: 1920px) {
+    .tabla-detalle-t1 {
+        width: 100%; 
+        height: 440px; 
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 1600px) {
+    .tabla-detalle-t5 {
+        width: 100%; 
+        height: 280px; 
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 1440px) {
+    .tabla-detalle-t2 {
+        width: 100%; 
+        height: 280px; 
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 1366px) {
+    .tabla-detalle-t3 {
+        width: 100%; 
+        height: 160px; 
+        overflow-y: auto;
+    }
+}
+
+@media (max-width: 1280px) {
+    .tabla-detalle-t4 {
+        width: 100%; 
+        height: 160px; 
+        overflow-y: auto;
+    }
+}
